@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.patrimoniocultural",
+      "sha256_cert_fingerprints": [
+        "D7:86:AA:6F:3D:60:69:05:DA:73:16:08:77:94:E1:60:81:A0:AE:2E:10:0D:0B:76:07:EF:69:2D:CC:05:3D:BF"
+      ]
+    }
+  }
+]
